@@ -1,0 +1,30 @@
+{
+  "name": "payot-sms",
+  "version": "1.0.0",
+  "description": "payot sms service",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/payot-inc/payot-sms.git"
+  },
+  "keywords": [
+    "sms",
+    "lms",
+    "alimtalk",
+    "friendstalk",
+    "bizm"
+  ],
+  "author": "yonghee kim <kyh1028@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/payot-inc/payot-sms/issues"
+  },
+  "homepage": "https://github.com/payot-inc/payot-sms#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "lodash": "^4.17.20"
+  }
+}
